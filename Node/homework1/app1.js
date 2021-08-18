@@ -2,7 +2,6 @@ const fs = require('fs');
 const path = require('path');
 
 
-
 const elenPath = path.join(__dirname, 'people', 'elen.json');
 const romanPath = path.join(__dirname, 'people','roman.json');
 const robertPath= path.join(__dirname, 'people', 'robert.json');
